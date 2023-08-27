@@ -1,0 +1,2 @@
+# Sales_Prediction_using_SARIMA_LSTM_Hybrid_Model
+Implemented a hybrid SARIMA-LSTM model for accurate sales prediction, combining time series analysis and deep learning techniques to enhance forecasting precision. This approach leverages the strengths of both SARIMA and LSTM models, enabling more robust predictions by capturing both temporal patterns and complex dependencies within the sales data.
